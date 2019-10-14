@@ -1,7 +1,5 @@
-# TrailersApp
+# PAsifMoviesApp
 A simple demo project for The Movie DB based on <b>MVVM clean architecture</b>.
-
-<img src="https://github.com/anitaa1990/TrailersApp/blob/master/media/2.gif" width="200" style="max-width:100%;">   <img src="https://github.com/anitaa1990/TrailersApp/blob/master/media/3.gif" width="200" style="max-width:100%;"></br></br>
 
 #### App Features
 * Users can view list of the latest movies of their choice.
@@ -13,8 +11,6 @@ A simple demo project for The Movie DB based on <b>MVVM clean architecture</b>
 
 #### App Architecture 
 Based on mvvm architecture and repository pattern.
-
-<img src="https://github.com/anitaa1990/TrailersApp/blob/master/media/1.png" width="500" style="max-width:500%;">
  
  #### The app includes the following main components:
 
@@ -51,6 +47,4 @@ Based on mvvm architecture and repository pattern.
 * Custom Views: [Loading](https://github.com/yankai-victor/Loading), [Side Menu](https://github.com/Yalantis/Side-Menu.Android)
 
 
-<h2>Sample App</h2>
-<p><a href="https://play.google.com/store/apps/details?id=com.an.trailers"><img width="150" alt="Get it on Google Play" src="https://camo.githubusercontent.com/ccb26dee92ba45c411e669aae47dcc0706471af7/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f67622f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67" data-canonical-src="https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png" style="max-width:100%;"></a></p>
-# PMovies
+
